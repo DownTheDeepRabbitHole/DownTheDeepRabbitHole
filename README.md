@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DownTheDeepRabbitHole
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ... via coding
-
-<!---
-DownTheDeepRabbitHole/DownTheDeepRabbitHole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Legendary coding icon. Unmatched Blockly skills. Somewhere in the top percentile of Scratch Jr for my age range. Also proud owner an extremely successful NFT you can buy for a special discount.  
+```py
+import pygame
+pygame.render("My hobby is making people like you realize their ultimate futility against my power.")
+```   
